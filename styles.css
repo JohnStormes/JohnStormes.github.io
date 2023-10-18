@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: teal;
+    text-align: center;
+}
+
+.assign {
+    margin: 10px;
+    padding: 10px;
+    background-color:plum;
+    display: flex;
+}
+
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
