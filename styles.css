@@ -7,14 +7,25 @@ h1 {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: darkmagenta;
+}
+
 .assign {
     margin: 10px;
     padding: 10px;
     background-color:plum;
     display: flex;
+    border-radius: 30px;
 }
 
 .assign img{
     width: 200px;
-    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
 }
